@@ -2,6 +2,8 @@
 
 Independent concept project. All venues are fictional.
 
+**Live demo:** https://lachezar-atanasov.github.io/active-city-explorer/
+
 ![Active City Explorer dashboard](docs/preview.png)
 
 An interactive React dashboard for finding sports venues: search, activity filters, a time slider, a dot and density map, a sortable list, venue details, charts that follow your filters, a shareable URL and light and dark themes.
